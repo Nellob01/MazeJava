@@ -17,6 +17,6 @@ public class Room {
         this.col = col;
     }
     public String toString(){
-        String location = row + "," + col;
-        return location;
+        String points = row + "," + col;
+        return points;
 }}
